@@ -33,5 +33,5 @@ Dowload the cpp file in your computer/pc and open it with C/C++ IDE after doing 
 
 <img src="https://github.com/UG-SEP/Stack-Visualizer/blob/UG/stack visualiser pic.jpg"/>
 
-<h2>Show your love by staring some of my repos</h2>
+<h2>Show your love 🧡 by staring ⭐ some of my repos</h2>
 
