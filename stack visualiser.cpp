@@ -1,3 +1,4 @@
+// Copyright (c) Ujjwal Gupta (@UG-SEP)
 #include<graphics.h>
 #include<stdio.h>
 struct Stack
